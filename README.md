@@ -11,4 +11,10 @@ Solltet ihr irgendwelche Bugs oder Rechtschreibfehler finden bitte auf GitHub ei
 
 Ihr werdet hier von Zeit zu Zeit die Entwicklungsfortschritte verfolgen können.
 
+
 Spiel optimiert für eine Auflösung von 1920x1080 Pixel
+
+
+Steuerung:
+Linksklick zum Bewegen und Aktionen ausführen
+Rechtsklick zum Objekte anschauen.
