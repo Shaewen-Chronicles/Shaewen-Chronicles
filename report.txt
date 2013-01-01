@@ -16,9 +16,9 @@ leeregiftphiole.png
 dolch.png
 Brief_ungelesen.png
 Brief_gelesen.png
-tmp\vis3.png
+tmp\vis0.png
 Logo + Menü.png
-tmp\vis4.png
+tmp\vis1.png
 Laden_Speichern.png
 zurück.png
 Platz1_active.png
@@ -37,7 +37,7 @@ graphics\character.png
 vis_font_template.png
 inventar_neu.png
 graphics\cur_arrow.png
-tmp\vis5.png
+tmp\vis2.png
 Lade Bildschirm.png
 tmp\game.dat
 --------------------------------------------------------------------------------
