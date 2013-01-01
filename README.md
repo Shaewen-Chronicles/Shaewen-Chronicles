@@ -10,3 +10,5 @@ Einfach die .exe Starten und ihr könnt spielen.
 Solltet ihr irgendwelche Bugs oder Rechtschreibfehler finden bitte auf GitHub ein Issue anlegen.
 
 Ihr werdet hier von Zeit zu Zeit die Entwicklungsfortschritte verfolgen können.
+
+Spiel optimiert für eine Auflösung von 1920x1080 Pixel
