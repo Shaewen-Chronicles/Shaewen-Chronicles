@@ -16,5 +16,5 @@ Spiel optimiert für eine Auflösung von 1920x1080 Pixel
 
 
 Steuerung:
-Linksklick zum Bewegen und Aktionen ausführen
+Linksklick zum Bewegen und Aktionen ausführen.
 Rechtsklick zum Objekte anschauen.

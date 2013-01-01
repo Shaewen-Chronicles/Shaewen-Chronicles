@@ -5,7 +5,8 @@ Writing scene 'raum1'
 Writing scene 'raum2'
 Writing scene 'raum3'
 Writing characters
-Writing character 'Person0'
+Writing character 'MainChar'
+Writing character 'Gastwirt'
 Writing interfaces
 Writing interface 'Inventar'
 Writing interface 'Maus'
