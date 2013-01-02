@@ -2,7 +2,7 @@
 Shaewen-Chronicles
 ==================
 
-Alpha 0.0.2 Veröffentlicht!!!
+Alpha 0.0.3 Veröffentlicht!!!
 
 Dies hier ist ein von 2 Freunden entwickeltes Point and Klick Adventure
 

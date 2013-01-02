@@ -7,11 +7,12 @@ Writing scene 'raum3'
 Writing characters
 Writing character 'MainChar'
 Writing character 'Gastwirt'
+Writing character 'Opfer1'
 Writing interfaces
 Writing interface 'Inventar'
 Writing interface 'Maus'
 Writing .vis file
-Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.2\shaewen-chronicles_alpha_0.0.2.vis'
+Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.3\shaewen-chronicles_alpha_0.0.3.vis'
 --------------------------------------------------------------------------------
 leeregiftphiole.png
 dolch.png
