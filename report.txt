@@ -12,7 +12,7 @@ Writing interfaces
 Writing interface 'Inventar'
 Writing interface 'Maus'
 Writing .vis file
-Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.3\shaewen-chronicles_alpha_0.0.3.vis'
+Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.4\shaewen-chronicles_alpha_0.0.4.vis'
 --------------------------------------------------------------------------------
 leeregiftphiole.png
 dolch.png
@@ -30,6 +30,7 @@ Platz4_active.png
 Raum1.png
 raum2.png
 raum3.png
+footsteps.wav
 dialog_pfeil_auf_active.png
 dialog_pfeil_auf_inactive.png
 dialog_pfeil_ab_active.png
