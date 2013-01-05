@@ -1,26 +1,29 @@
 Writing scenes
 Writing scene 'Hauptmenü'
 Writing scene 'Laden/speichern'
-Writing scene 'raum1'
-Writing scene 'raum2'
-Writing scene 'raum3'
+Writing scene 'raum1_dein zimmer'
+Writing scene 'raum2_Flur'
+Writing scene 'raum3_Gastraum'
+Writing scene 'draußen_schnee'
+Writing scene 'raum4_Stall'
 Writing characters
 Writing character 'MainChar'
 Writing character 'Gastwirt'
 Writing character 'Darothan (Opfer1)'
+Writing character 'Landstreicher'
 Writing interfaces
 Writing interface 'Inventar'
 Writing interface 'Maus'
 Writing .vis file
-Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.5\shaewen-chronicles_alpha_0.0.5.vis'
+Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.6\shaewen-chronicles_alpha_0.0.6.vis'
 --------------------------------------------------------------------------------
 leeregiftphiole.png
 dolch.png
 Brief_ungelesen.png
 Brief_gelesen.png
-tmp\vis3.png
+tmp\vis0.png
 Logo + Menü.png
-tmp\vis4.png
+tmp\vis1.png
 Laden_Speichern.png
 zurück.png
 Platz1_active.png
@@ -30,6 +33,8 @@ Platz4_active.png
 Raum1.png
 raum2.png
 raum3.png
+draußen_schnee.png
+raum4.png
 footsteps.wav
 dialog_pfeil_auf_active.png
 dialog_pfeil_auf_inactive.png
@@ -41,7 +46,7 @@ graphics\character.png
 vis_font_template.png
 inventar_neu.png
 graphics\cur_arrow.png
-tmp\vis5.png
+tmp\vis2.png
 Lade Bildschirm.png
 tmp\game.dat
 --------------------------------------------------------------------------------
