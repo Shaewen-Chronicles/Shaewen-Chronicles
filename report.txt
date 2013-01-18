@@ -7,21 +7,22 @@ Writing scene 'raum3_Gastraum'
 Writing scene 'draußen_schnee'
 Writing scene 'raum4_Stall'
 Writing characters
-Writing character 'MainChar'
+Writing character 'Benlegar (MainChar)'
 Writing character 'Gastwirt'
 Writing character 'Darothan (Opfer1)'
 Writing character 'Relangir (Landstreicher)'
+Writing character 'Benloran (Koch)'
 Writing interfaces
 Writing interface 'Inventar'
 Writing interface 'Maus'
 Writing videos
-Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.7\video.vv000'
+Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.8\video.vv000'
 --------------------------------------------------------------------------------
-C:\Users\chris_000\Desktop\Shaewen-Chronicles\intro.mp4
+C:\Users\chris_000\Desktop\Shaewen-Chronicles\intro_neu.mp4
 --------------------------------------------------------------------------------
 
 Writing .vis file
-Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.7\shaewen-chronicles_alpha_0.0.7.vis'
+Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.8\shaewen-chronicles_alpha_0.0.8.vis'
 --------------------------------------------------------------------------------
 leeregiftphiole.png
 dolch.png
@@ -47,6 +48,302 @@ dialog_pfeil_auf_inactive.png
 dialog_pfeil_ab_active.png
 dialog_pfeil_ab_inactive.png
 dialoge.png
+character\mainchar\front\mainchar.png
+character\mainchar\back\mainchar.png
+character\mainchar\left\mainchar.png
+character\mainchar\right\mainchar.png
+character\mainchar\front_right\mainchar.png
+character\mainchar\front_left\mainchar.png
+character\mainchar\back_left\mainchar.png
+character\mainchar\back_right\mainchar.png
+character\mainchar\front idle\mainchar00.png
+character\mainchar\front idle\mainchar01.png
+character\mainchar\front idle\mainchar02.png
+character\mainchar\front idle\mainchar03.png
+character\mainchar\front idle\mainchar04.png
+character\mainchar\front idle\mainchar05.png
+character\mainchar\front idle\mainchar06.png
+character\mainchar\front idle\mainchar07.png
+character\mainchar\front idle\mainchar08.png
+character\mainchar\front idle\mainchar09.png
+character\mainchar\front idle\mainchar10.png
+character\mainchar\front idle\mainchar11.png
+character\mainchar\front idle\mainchar12.png
+character\mainchar\front idle\mainchar13.png
+character\mainchar\front idle\mainchar14.png
+character\mainchar\front idle\mainchar15.png
+character\mainchar\front idle\mainchar16.png
+character\mainchar\front idle\mainchar17.png
+character\mainchar\front idle\mainchar18.png
+character\mainchar\front idle\mainchar19.png
+character\mainchar\front idle\mainchar20.png
+character\mainchar\front idle\mainchar21.png
+character\mainchar\front idle\mainchar22.png
+character\mainchar\front idle\mainchar23.png
+character\mainchar\front idle\mainchar24.png
+character\mainchar\front idle\mainchar25.png
+character\mainchar\front idle\mainchar26.png
+character\mainchar\front idle\mainchar27.png
+character\mainchar\front idle\mainchar28.png
+character\mainchar\front idle\mainchar29.png
+character\mainchar\front idle\mainchar30.png
+character\mainchar\front idle\mainchar31.png
+character\mainchar\front idle\mainchar32.png
+character\mainchar\front idle\mainchar33.png
+character\mainchar\front idle\mainchar34.png
+character\mainchar\front idle\mainchar35.png
+character\mainchar\front idle\mainchar36.png
+character\mainchar\front idle\mainchar37.png
+character\mainchar\front idle\mainchar38.png
+character\mainchar\front idle\mainchar39.png
+character\mainchar\front idle\mainchar40.png
+character\mainchar\front idle\mainchar41.png
+character\mainchar\front idle\mainchar42.png
+character\mainchar\front idle\mainchar43.png
+character\mainchar\front idle\mainchar44.png
+character\mainchar\front idle\mainchar45.png
+character\mainchar\front idle\mainchar46.png
+character\mainchar\front idle\mainchar47.png
+character\mainchar\front idle\mainchar48.png
+character\mainchar\front idle\mainchar49.png
+character\mainchar\front idle\mainchar50.png
+character\mainchar\front idle\mainchar51.png
+character\mainchar\front idle\mainchar52.png
+character\mainchar\front idle\mainchar53.png
+character\mainchar\front idle\mainchar54.png
+character\mainchar\front idle\mainchar55.png
+character\mainchar\front idle\mainchar56.png
+character\mainchar\front idle\mainchar57.png
+character\mainchar\front idle\mainchar58.png
+character\mainchar\front idle\mainchar59.png
+character\mainchar\front idle\mainchar60.png
+character\mainchar\front idle\mainchar61.png
+character\mainchar\front idle\mainchar62.png
+character\mainchar\front idle\mainchar63.png
+character\mainchar\front idle\mainchar64.png
+character\mainchar\front idle\mainchar65.png
+character\mainchar\front idle\mainchar66.png
+character\mainchar\front idle\mainchar67.png
+character\mainchar\front idle\mainchar68.png
+character\mainchar\front idle\mainchar69.png
+character\mainchar\front idle\mainchar70.png
+character\mainchar\front idle\mainchar71.png
+character\mainchar\left idle\mainchar00.png
+character\mainchar\left idle\mainchar01.png
+character\mainchar\left idle\mainchar02.png
+character\mainchar\left idle\mainchar03.png
+character\mainchar\left idle\mainchar04.png
+character\mainchar\left idle\mainchar05.png
+character\mainchar\left idle\mainchar06.png
+character\mainchar\left idle\mainchar07.png
+character\mainchar\left idle\mainchar08.png
+character\mainchar\left idle\mainchar09.png
+character\mainchar\left idle\mainchar10.png
+character\mainchar\left idle\mainchar11.png
+character\mainchar\left idle\mainchar12.png
+character\mainchar\left idle\mainchar13.png
+character\mainchar\left idle\mainchar14.png
+character\mainchar\left idle\mainchar15.png
+character\mainchar\left idle\mainchar16.png
+character\mainchar\left idle\mainchar17.png
+character\mainchar\left idle\mainchar18.png
+character\mainchar\left idle\mainchar19.png
+character\mainchar\left idle\mainchar20.png
+character\mainchar\left idle\mainchar21.png
+character\mainchar\left idle\mainchar22.png
+character\mainchar\left idle\mainchar23.png
+character\mainchar\left idle\mainchar24.png
+character\mainchar\left idle\mainchar25.png
+character\mainchar\left idle\mainchar26.png
+character\mainchar\left idle\mainchar27.png
+character\mainchar\left idle\mainchar28.png
+character\mainchar\left idle\mainchar29.png
+character\mainchar\left idle\mainchar30.png
+character\mainchar\left idle\mainchar31.png
+character\mainchar\left idle\mainchar32.png
+character\mainchar\left idle\mainchar33.png
+character\mainchar\left idle\mainchar34.png
+character\mainchar\left idle\mainchar35.png
+character\mainchar\left idle\mainchar36.png
+character\mainchar\left idle\mainchar37.png
+character\mainchar\left idle\mainchar38.png
+character\mainchar\left idle\mainchar39.png
+character\mainchar\left idle\mainchar40.png
+character\mainchar\left idle\mainchar41.png
+character\mainchar\left idle\mainchar42.png
+character\mainchar\left idle\mainchar43.png
+character\mainchar\left idle\mainchar44.png
+character\mainchar\left idle\mainchar45.png
+character\mainchar\left idle\mainchar46.png
+character\mainchar\left idle\mainchar47.png
+character\mainchar\left idle\mainchar48.png
+character\mainchar\left idle\mainchar49.png
+character\mainchar\left idle\mainchar50.png
+character\mainchar\left idle\mainchar51.png
+character\mainchar\left idle\mainchar52.png
+character\mainchar\left idle\mainchar53.png
+character\mainchar\left idle\mainchar54.png
+character\mainchar\left idle\mainchar55.png
+character\mainchar\left idle\mainchar56.png
+character\mainchar\left idle\mainchar57.png
+character\mainchar\left idle\mainchar58.png
+character\mainchar\left idle\mainchar59.png
+character\mainchar\left idle\mainchar60.png
+character\mainchar\left idle\mainchar61.png
+character\mainchar\left idle\mainchar62.png
+character\mainchar\left idle\mainchar63.png
+character\mainchar\left idle\mainchar64.png
+character\mainchar\left idle\mainchar65.png
+character\mainchar\left idle\mainchar66.png
+character\mainchar\left idle\mainchar67.png
+character\mainchar\left idle\mainchar68.png
+character\mainchar\left idle\mainchar69.png
+character\mainchar\left idle\mainchar70.png
+character\mainchar\left idle\mainchar71.png
+character\mainchar\right idle\mainchar00.png
+character\mainchar\right idle\mainchar01.png
+character\mainchar\right idle\mainchar02.png
+character\mainchar\right idle\mainchar03.png
+character\mainchar\right idle\mainchar04.png
+character\mainchar\right idle\mainchar05.png
+character\mainchar\right idle\mainchar06.png
+character\mainchar\right idle\mainchar07.png
+character\mainchar\right idle\mainchar08.png
+character\mainchar\right idle\mainchar09.png
+character\mainchar\right idle\mainchar10.png
+character\mainchar\right idle\mainchar11.png
+character\mainchar\right idle\mainchar12.png
+character\mainchar\right idle\mainchar13.png
+character\mainchar\right idle\mainchar14.png
+character\mainchar\right idle\mainchar15.png
+character\mainchar\right idle\mainchar16.png
+character\mainchar\right idle\mainchar17.png
+character\mainchar\right idle\mainchar18.png
+character\mainchar\right idle\mainchar19.png
+character\mainchar\right idle\mainchar20.png
+character\mainchar\right idle\mainchar21.png
+character\mainchar\right idle\mainchar22.png
+character\mainchar\right idle\mainchar23.png
+character\mainchar\right idle\mainchar24.png
+character\mainchar\right idle\mainchar25.png
+character\mainchar\right idle\mainchar26.png
+character\mainchar\right idle\mainchar27.png
+character\mainchar\right idle\mainchar28.png
+character\mainchar\right idle\mainchar29.png
+character\mainchar\right idle\mainchar30.png
+character\mainchar\right idle\mainchar31.png
+character\mainchar\right idle\mainchar32.png
+character\mainchar\right idle\mainchar33.png
+character\mainchar\right idle\mainchar34.png
+character\mainchar\right idle\mainchar35.png
+character\mainchar\right idle\mainchar36.png
+character\mainchar\right idle\mainchar37.png
+character\mainchar\right idle\mainchar38.png
+character\mainchar\right idle\mainchar39.png
+character\mainchar\right idle\mainchar40.png
+character\mainchar\right idle\mainchar41.png
+character\mainchar\right idle\mainchar42.png
+character\mainchar\right idle\mainchar43.png
+character\mainchar\right idle\mainchar44.png
+character\mainchar\right idle\mainchar45.png
+character\mainchar\right idle\mainchar46.png
+character\mainchar\right idle\mainchar47.png
+character\mainchar\right idle\mainchar48.png
+character\mainchar\right idle\mainchar49.png
+character\mainchar\right idle\mainchar50.png
+character\mainchar\right idle\mainchar51.png
+character\mainchar\right idle\mainchar52.png
+character\mainchar\right idle\mainchar53.png
+character\mainchar\right idle\mainchar54.png
+character\mainchar\right idle\mainchar55.png
+character\mainchar\right idle\mainchar56.png
+character\mainchar\right idle\mainchar57.png
+character\mainchar\right idle\mainchar58.png
+character\mainchar\right idle\mainchar59.png
+character\mainchar\right idle\mainchar60.png
+character\mainchar\right idle\mainchar61.png
+character\mainchar\right idle\mainchar62.png
+character\mainchar\right idle\mainchar63.png
+character\mainchar\right idle\mainchar64.png
+character\mainchar\right idle\mainchar65.png
+character\mainchar\right idle\mainchar66.png
+character\mainchar\right idle\mainchar67.png
+character\mainchar\right idle\mainchar68.png
+character\mainchar\right idle\mainchar69.png
+character\mainchar\right idle\mainchar70.png
+character\mainchar\right idle\mainchar71.png
+character\mainchar\back idle\mainchar00.png
+character\mainchar\back idle\mainchar01.png
+character\mainchar\back idle\mainchar02.png
+character\mainchar\back idle\mainchar03.png
+character\mainchar\back idle\mainchar04.png
+character\mainchar\back idle\mainchar05.png
+character\mainchar\back idle\mainchar06.png
+character\mainchar\back idle\mainchar07.png
+character\mainchar\back idle\mainchar08.png
+character\mainchar\back idle\mainchar09.png
+character\mainchar\back idle\mainchar10.png
+character\mainchar\back idle\mainchar11.png
+character\mainchar\back idle\mainchar12.png
+character\mainchar\back idle\mainchar13.png
+character\mainchar\back idle\mainchar14.png
+character\mainchar\back idle\mainchar15.png
+character\mainchar\back idle\mainchar16.png
+character\mainchar\back idle\mainchar17.png
+character\mainchar\back idle\mainchar18.png
+character\mainchar\back idle\mainchar19.png
+character\mainchar\back idle\mainchar20.png
+character\mainchar\back idle\mainchar21.png
+character\mainchar\back idle\mainchar22.png
+character\mainchar\back idle\mainchar23.png
+character\mainchar\back idle\mainchar24.png
+character\mainchar\back idle\mainchar25.png
+character\mainchar\back idle\mainchar26.png
+character\mainchar\back idle\mainchar27.png
+character\mainchar\back idle\mainchar28.png
+character\mainchar\back idle\mainchar29.png
+character\mainchar\back idle\mainchar30.png
+character\mainchar\back idle\mainchar31.png
+character\mainchar\back idle\mainchar32.png
+character\mainchar\back idle\mainchar33.png
+character\mainchar\back idle\mainchar34.png
+character\mainchar\back idle\mainchar35.png
+character\mainchar\back idle\mainchar36.png
+character\mainchar\back idle\mainchar37.png
+character\mainchar\back idle\mainchar38.png
+character\mainchar\back idle\mainchar39.png
+character\mainchar\back idle\mainchar40.png
+character\mainchar\back idle\mainchar41.png
+character\mainchar\back idle\mainchar42.png
+character\mainchar\back idle\mainchar43.png
+character\mainchar\back idle\mainchar44.png
+character\mainchar\back idle\mainchar45.png
+character\mainchar\back idle\mainchar46.png
+character\mainchar\back idle\mainchar47.png
+character\mainchar\back idle\mainchar48.png
+character\mainchar\back idle\mainchar49.png
+character\mainchar\back idle\mainchar50.png
+character\mainchar\back idle\mainchar51.png
+character\mainchar\back idle\mainchar52.png
+character\mainchar\back idle\mainchar53.png
+character\mainchar\back idle\mainchar54.png
+character\mainchar\back idle\mainchar55.png
+character\mainchar\back idle\mainchar56.png
+character\mainchar\back idle\mainchar57.png
+character\mainchar\back idle\mainchar58.png
+character\mainchar\back idle\mainchar59.png
+character\mainchar\back idle\mainchar60.png
+character\mainchar\back idle\mainchar61.png
+character\mainchar\back idle\mainchar62.png
+character\mainchar\back idle\mainchar63.png
+character\mainchar\back idle\mainchar64.png
+character\mainchar\back idle\mainchar65.png
+character\mainchar\back idle\mainchar66.png
+character\mainchar\back idle\mainchar67.png
+character\mainchar\back idle\mainchar68.png
+character\mainchar\back idle\mainchar69.png
+character\mainchar\back idle\mainchar70.png
+character\mainchar\back idle\mainchar71.png
 graphics\character_walking.png
 graphics\character.png
 vis_font_template.png
