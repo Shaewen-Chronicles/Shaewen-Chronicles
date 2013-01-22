@@ -1,14 +1,17 @@
 Writing scenes
 Writing scene 'Hauptmenü'
 Writing scene 'Laden/speichern'
-Writing scene 'raum1_dein zimmer'
-Writing scene 'raum2_Flur'
-Writing scene 'raum3_Gastraum'
+Writing scene 'Gemitetes zimmer_gasthof'
+Writing scene 'Flur_gasthof'
+Writing scene 'Gastraum_gasthof'
 Writing scene 'draußen_schnee'
-Writing scene 'raum4_Stall'
+Writing scene 'stall_gasthof'
+Writing scene '-------------------------------'
+Writing scene 'küche_gasthof'
+Writing scene 'Toilette'
 Writing characters
 Writing character 'Benlegar (MainChar)'
-Writing character 'Gastwirt'
+Writing character 'Eberhard (Gastwirt)'
 Writing character 'Darothan (Opfer1)'
 Writing character 'Relangir (Landstreicher)'
 Writing character 'Benloran (Koch)'
@@ -16,13 +19,13 @@ Writing interfaces
 Writing interface 'Inventar'
 Writing interface 'Maus'
 Writing videos
-Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.8\video.vv000'
+Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.9\video.vv000'
 --------------------------------------------------------------------------------
 C:\Users\chris_000\Desktop\Shaewen-Chronicles\intro_neu.mp4
 --------------------------------------------------------------------------------
 
 Writing .vis file
-Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.8\shaewen-chronicles_alpha_0.0.8.vis'
+Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.9\shaewen-chronicles_alpha_0.0.9.vis'
 --------------------------------------------------------------------------------
 leeregiftphiole.png
 dolch.png
@@ -42,6 +45,8 @@ raum2.png
 raum3.png
 draußen_schnee.png
 raum4.png
+küche.png
+Toilette.png
 footsteps.wav
 dialog_pfeil_auf_active.png
 dialog_pfeil_auf_inactive.png
@@ -344,6 +349,86 @@ character\mainchar\back idle\mainchar68.png
 character\mainchar\back idle\mainchar69.png
 character\mainchar\back idle\mainchar70.png
 character\mainchar\back idle\mainchar71.png
+character\Eberhard\front\Eberhard.png
+character\Eberhard\back\Eberhard.png
+character\Eberhard\left\Eberhard.png
+character\Eberhard\right\Eberhard.png
+character\Eberhard\front_left\Eberhard.png
+character\Eberhard\front_right\Eberhard.png
+character\Eberhard\back_left\Eberhard.png
+character\Eberhard\back_right\Eberhard.png
+character\Eberhard\front_idle\Eberhard00.png
+character\Eberhard\front_idle\Eberhard01.png
+character\Eberhard\front_idle\Eberhard02.png
+character\Eberhard\front_idle\Eberhard03.png
+character\Eberhard\front_idle\Eberhard04.png
+character\Eberhard\front_idle\Eberhard05.png
+character\Eberhard\front_idle\Eberhard06.png
+character\Eberhard\front_idle\Eberhard07.png
+character\Eberhard\front_idle\Eberhard08.png
+character\Eberhard\front_idle\Eberhard09.png
+character\Eberhard\front_idle\Eberhard10.png
+character\Eberhard\front_idle\Eberhard11.png
+character\Eberhard\front_idle\Eberhard12.png
+character\Eberhard\front_idle\Eberhard13.png
+character\Eberhard\front_idle\Eberhard14.png
+character\Eberhard\front_idle\Eberhard15.png
+character\Eberhard\front_idle\Eberhard16.png
+character\Eberhard\front_idle\Eberhard17.png
+character\Eberhard\front_idle\Eberhard18.png
+character\Eberhard\front_idle\Eberhard19.png
+character\Eberhard\front_idle\Eberhard20.png
+character\Eberhard\front_idle\Eberhard21.png
+character\Eberhard\front_idle\Eberhard22.png
+character\Eberhard\front_idle\Eberhard23.png
+character\Eberhard\front_idle\Eberhard24.png
+character\Eberhard\front_idle\Eberhard25.png
+character\Eberhard\front_idle\Eberhard26.png
+character\Eberhard\front_idle\Eberhard27.png
+character\Eberhard\front_idle\Eberhard28.png
+character\Eberhard\front_idle\Eberhard29.png
+character\Eberhard\front_idle\Eberhard30.png
+character\Eberhard\front_idle\Eberhard31.png
+character\Eberhard\front_idle\Eberhard32.png
+character\Eberhard\front_idle\Eberhard33.png
+character\Eberhard\front_idle\Eberhard34.png
+character\Eberhard\front_idle\Eberhard35.png
+character\Eberhard\front_idle\Eberhard36.png
+character\Eberhard\front_idle\Eberhard37.png
+character\Eberhard\front_idle\Eberhard38.png
+character\Eberhard\front_idle\Eberhard39.png
+character\Eberhard\front_idle\Eberhard40.png
+character\Eberhard\front_idle\Eberhard41.png
+character\Eberhard\front_idle\Eberhard42.png
+character\Eberhard\front_idle\Eberhard43.png
+character\Eberhard\front_idle\Eberhard44.png
+character\Eberhard\front_idle\Eberhard45.png
+character\Eberhard\front_idle\Eberhard46.png
+character\Eberhard\front_idle\Eberhard47.png
+character\Eberhard\front_idle\Eberhard48.png
+character\Eberhard\front_idle\Eberhard49.png
+character\Eberhard\front_idle\Eberhard50.png
+character\Eberhard\front_idle\Eberhard51.png
+character\Eberhard\front_idle\Eberhard52.png
+character\Eberhard\front_idle\Eberhard53.png
+character\Eberhard\front_idle\Eberhard54.png
+character\Eberhard\front_idle\Eberhard55.png
+character\Eberhard\front_idle\Eberhard56.png
+character\Eberhard\front_idle\Eberhard57.png
+character\Eberhard\front_idle\Eberhard58.png
+character\Eberhard\front_idle\Eberhard59.png
+character\Eberhard\front_idle\Eberhard60.png
+character\Eberhard\front_idle\Eberhard61.png
+character\Eberhard\front_idle\Eberhard62.png
+character\Eberhard\front_idle\Eberhard63.png
+character\Eberhard\front_idle\Eberhard64.png
+character\Eberhard\front_idle\Eberhard65.png
+character\Eberhard\front_idle\Eberhard66.png
+character\Eberhard\front_idle\Eberhard67.png
+character\Eberhard\front_idle\Eberhard68.png
+character\Eberhard\front_idle\Eberhard69.png
+character\Eberhard\front_idle\Eberhard70.png
+character\Eberhard\front_idle\Eberhard71.png
 graphics\character_walking.png
 graphics\character.png
 vis_font_template.png
