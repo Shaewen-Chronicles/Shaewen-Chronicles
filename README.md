@@ -2,7 +2,7 @@
 Shaewen-Chronicles
 ==================
 
-Alpha v0.0.9 Veröffentlicht!!!
+Alpha v0.0.10 Veröffentlicht!!!
 
 Demnächst werden wir auch eine Mac Version anbieten.
 

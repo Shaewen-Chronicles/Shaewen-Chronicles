@@ -8,29 +8,34 @@ Writing scene 'draußen_schnee'
 Writing scene 'stall_gasthof'
 Writing scene '-------------------------------'
 Writing scene 'küche_gasthof'
-Writing scene 'Toilette'
+Writing scene 'Toilette_gasthof'
+Writing scene 'Schmiede_gasthof'
+Writing scene 'vorratskammer_gasthof'
 Writing characters
 Writing character 'Benlegar (MainChar)'
 Writing character 'Eberhard (Gastwirt)'
 Writing character 'Darothan (Opfer1)'
 Writing character 'Relangir (Landstreicher)'
 Writing character 'Benloran (Koch)'
+Writing character 'Mone (Tochter)'
 Writing interfaces
 Writing interface 'Inventar'
 Writing interface 'Maus'
 Writing videos
-Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.9\video.vv000'
+Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.10\video.vv000'
 --------------------------------------------------------------------------------
 C:\Users\chris_000\Desktop\Shaewen-Chronicles\intro_neu.mp4
 --------------------------------------------------------------------------------
 
 Writing .vis file
-Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.9\shaewen-chronicles_alpha_0.0.9.vis'
+Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.10\shaewen-chronicles_alpha_0.0.10.vis'
 --------------------------------------------------------------------------------
 leeregiftphiole.png
 dolch.png
 Brief_ungelesen.png
 Brief_gelesen.png
+gitphiolemitschimmel.png
+schlüssel_vorratskammer.png
 tmp\vis0.png
 Logo + Menü.png
 tmp\vis1.png
@@ -46,7 +51,11 @@ raum3.png
 draußen_schnee.png
 raum4.png
 küche.png
+kochtopf.png
+kochtopf_gift.png
 Toilette.png
+schmiede.png
+vorratskammer.png
 footsteps.wav
 dialog_pfeil_auf_active.png
 dialog_pfeil_auf_inactive.png
@@ -431,6 +440,10 @@ character\Eberhard\front_idle\Eberhard70.png
 character\Eberhard\front_idle\Eberhard71.png
 graphics\character_walking.png
 graphics\character.png
+character\relangir\relangir.png
+character\Koch\Koch.png
+character\Koch\koch_left.png
+character\Tochter\tochter.png
 vis_font_template.png
 inventar_neu.png
 graphics\cur_arrow.png
