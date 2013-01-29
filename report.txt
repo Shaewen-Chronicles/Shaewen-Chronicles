@@ -22,13 +22,13 @@ Writing interfaces
 Writing interface 'Inventar'
 Writing interface 'Maus'
 Writing videos
-Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.10\video.vv000'
+Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.11\video.vv000'
 --------------------------------------------------------------------------------
 C:\Users\chris_000\Desktop\Shaewen-Chronicles\intro_neu.mp4
 --------------------------------------------------------------------------------
 
 Writing .vis file
-Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.10\shaewen-chronicles_alpha_0.0.10.vis'
+Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.11\shaewen-chronicles_alpha_0.0.11.vis'
 --------------------------------------------------------------------------------
 leeregiftphiole.png
 dolch.png

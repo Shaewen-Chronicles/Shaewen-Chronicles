@@ -2,9 +2,7 @@
 Shaewen-Chronicles
 ==================
 
-Alpha v0.0.10 Veröffentlicht!!!
-
-Demnächst werden wir auch eine Mac Version anbieten.
+Alpha v0.0.11 Veröffentlicht!!!
 
 Dies hier ist ein von 2 Freunden entwickeltes Point and Klick Adventure
 
