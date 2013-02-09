@@ -11,6 +11,8 @@ Writing scene 'küche_gasthof'
 Writing scene 'Toilette_gasthof'
 Writing scene 'Schmiede_gasthof'
 Writing scene 'vorratskammer_gasthof'
+Writing scene 'schlafsaal_gasthof'
+Writing scene '(Level1)'
 Writing characters
 Writing character 'Benlegar (MainChar)'
 Writing character 'Eberhard (Gastwirt)'
@@ -22,13 +24,13 @@ Writing interfaces
 Writing interface 'Inventar'
 Writing interface 'Maus'
 Writing videos
-Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.11\video.vv000'
+Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.12\video.vv000'
 --------------------------------------------------------------------------------
 C:\Users\chris_000\Desktop\Shaewen-Chronicles\intro_neu.mp4
 --------------------------------------------------------------------------------
 
 Writing .vis file
-Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.11\shaewen-chronicles_alpha_0.0.11.vis'
+Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.12\shaewen-chronicles_alpha_0.0.12.vis'
 --------------------------------------------------------------------------------
 leeregiftphiole.png
 dolch.png
@@ -62,14 +64,14 @@ dialog_pfeil_auf_inactive.png
 dialog_pfeil_ab_active.png
 dialog_pfeil_ab_inactive.png
 dialoge.png
-character\mainchar\front\mainchar.png
-character\mainchar\back\mainchar.png
-character\mainchar\left\mainchar.png
-character\mainchar\right\mainchar.png
-character\mainchar\front_right\mainchar.png
-character\mainchar\front_left\mainchar.png
-character\mainchar\back_left\mainchar.png
-character\mainchar\back_right\mainchar.png
+character\mainchar\front\mainchar_neu.png
+character\mainchar\back\mainchar_neu.png
+character\mainchar\left\mainchar_neu.png
+character\mainchar\right\mainchar_neu.png
+character\mainchar\front_right\mainchar_neu.png
+character\mainchar\front_left\mainchar_neu.png
+character\mainchar\back_left\mainchar_neu.png
+character\mainchar\back_right\mainchar_neu.png
 character\Eberhard\front\Eberhard.png
 character\Eberhard\back\Eberhard.png
 character\Eberhard\left\Eberhard.png
@@ -78,9 +80,9 @@ character\Eberhard\front_left\Eberhard.png
 character\Eberhard\front_right\Eberhard.png
 character\Eberhard\back_left\Eberhard.png
 character\Eberhard\back_right\Eberhard.png
-graphics\character_walking.png
-graphics\character.png
+character\darothan\darothan.png
 character\relangir\relangir.png
+graphics\character.png
 character\Koch\Koch.png
 character\Koch\koch_left.png
 character\Tochter\tochter.png
