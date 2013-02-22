@@ -2,7 +2,7 @@
 Shaewen-Chronicles
 ==================
 
-Alpha v0.0.12 Veröffentlicht!!!
+Alpha v0.0.13 Veröffentlicht!!!
 
 Dies hier ist ein von 2 Freunden entwickeltes Point and Klick Adventure
 
@@ -19,3 +19,7 @@ Steuerung:
 Linksklick zum Bewegen und Aktionen ausführen.
 
 Rechtsklick zum Objekte anschauen.
+
+q Spiel sofort beenden
+
+[+] Interface Modus umstellen Standard Hover Mode umgestellt Mausrad

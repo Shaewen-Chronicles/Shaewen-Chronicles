@@ -21,16 +21,16 @@ Writing character 'Relangir (Landstreicher)'
 Writing character 'Benloran (Koch)'
 Writing character 'Mone (Tochter)'
 Writing interfaces
-Writing interface 'Inventar'
+Writing interface 'inventory'
 Writing interface 'Maus'
 Writing videos
-Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.12\video.vv000'
+Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.13\video.vv000'
 --------------------------------------------------------------------------------
 C:\Users\chris_000\Desktop\Shaewen-Chronicles\intro_neu.mp4
 --------------------------------------------------------------------------------
 
 Writing .vis file
-Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.12\shaewen-chronicles_alpha_0.0.12.vis'
+Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.13\shaewen-chronicles_alpha_0.0.13.vis'
 --------------------------------------------------------------------------------
 leeregiftphiole.png
 dolch.png
@@ -58,6 +58,7 @@ kochtopf_gift.png
 Toilette.png
 schmiede.png
 vorratskammer.png
+schlafsaal.png
 footsteps.wav
 dialog_pfeil_auf_active.png
 dialog_pfeil_auf_inactive.png
