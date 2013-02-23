@@ -23,3 +23,6 @@ Rechtsklick zum Objekte anschauen.
 q Spiel sofort beenden
 
 [+] Interface Modus umstellen Standard Hover Mode umgestellt Mausrad
+
+
+Wer Rechtschreibfehler findet darf Sie Behalten!! (aber bitte voher melden)

@@ -59,6 +59,11 @@ graphics\kulissen\Toilette.png
 graphics\kulissen\schmiede.png
 graphics\kulissen\vorratskammer.png
 graphics\kulissen\schlafsaal.png
+graphics\dialog\dialog_pfeil_auf_active.png
+graphics\dialog\dialog_pfeil_auf_inactive.png
+graphics\dialog\dialog_pfeil_ab_active.png
+graphics\dialog\dialog_pfeil_ab_inactive.png
+graphics\dialog\dialoge.png
 character\mainchar\front\mainchar_neu.png
 character\mainchar\back\mainchar_neu.png
 character\mainchar\left\mainchar_neu.png
