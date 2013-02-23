@@ -26,45 +26,39 @@ Writing interface 'Maus'
 Writing videos
 Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.13\video.vv000'
 --------------------------------------------------------------------------------
-C:\Users\chris_000\Desktop\Shaewen-Chronicles\intro_neu.mp4
+C:\Users\chris_000\Desktop\Shaewen-Chronicles\graphics\videos\intro_neu.mp4
 --------------------------------------------------------------------------------
 
 Writing .vis file
 Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.13\shaewen-chronicles_alpha_0.0.13.vis'
 --------------------------------------------------------------------------------
-leeregiftphiole.png
-dolch.png
-Brief_ungelesen.png
-Brief_gelesen.png
-gitphiolemitschimmel.png
-schlüssel_vorratskammer.png
+graphics\items\leeregiftphiole.png
+graphics\items\dolch.png
+graphics\items\Brief_ungelesen.png
+graphics\items\Brief_gelesen.png
+graphics\items\gitphiolemitschimmel.png
+graphics\items\schlüssel_vorratskammer.png
 tmp\vis0.png
-Logo + Menü.png
+graphics\menüs\Logo + Menü.png
 tmp\vis1.png
-Laden_Speichern.png
-zurück.png
-Platz1_active.png
-Platz2_active.png
-Platz3_active.png
-Platz4_active.png
-Raum1.png
-raum2.png
-raum3.png
-draußen_schnee.png
-raum4.png
-küche.png
-kochtopf.png
-kochtopf_gift.png
-Toilette.png
-schmiede.png
-vorratskammer.png
-schlafsaal.png
-footsteps.wav
-dialog_pfeil_auf_active.png
-dialog_pfeil_auf_inactive.png
-dialog_pfeil_ab_active.png
-dialog_pfeil_ab_inactive.png
-dialoge.png
+graphics\menüs\Laden_Speichern.png
+graphics\menüs\zurück.png
+graphics\menüs\Platz1_active.png
+graphics\menüs\Platz2_active.png
+graphics\menüs\Platz3_active.png
+graphics\menüs\Platz4_active.png
+graphics\kulissen\raum1.png
+graphics\kulissen\raum2.png
+graphics\kulissen\raum3.png
+graphics\kulissen\draußen_schnee.png
+graphics\kulissen\raum4.png
+graphics\kulissen\küche.png
+graphics\objecte\kochtopf.png
+graphics\objecte\kochtopf_gift.png
+graphics\kulissen\Toilette.png
+graphics\kulissen\schmiede.png
+graphics\kulissen\vorratskammer.png
+graphics\kulissen\schlafsaal.png
 character\mainchar\front\mainchar_neu.png
 character\mainchar\back\mainchar_neu.png
 character\mainchar\left\mainchar_neu.png
@@ -83,15 +77,14 @@ character\Eberhard\back_left\Eberhard.png
 character\Eberhard\back_right\Eberhard.png
 character\darothan\darothan.png
 character\relangir\relangir.png
-graphics\character.png
 character\Koch\Koch.png
 character\Koch\koch_left.png
 character\Tochter\tochter.png
-vis_font_template.png
-inventar_neu.png
+graphics\font\vis_font_template.png
+graphics\inventory\inventar_neu.png
 graphics\cur_arrow.png
 tmp\vis2.png
-Lade Bildschirm.png
+graphics\lade_bildschirm\Lade Bildschirm.png
 tmp\game.dat
 --------------------------------------------------------------------------------
 
