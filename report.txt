@@ -24,13 +24,13 @@ Writing interfaces
 Writing interface 'inventory'
 Writing interface 'Maus'
 Writing videos
-Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.13\video.vv000'
+Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.14\video.vv000'
 --------------------------------------------------------------------------------
 C:\Users\chris_000\Desktop\Shaewen-Chronicles\graphics\videos\intro_neu.mp4
 --------------------------------------------------------------------------------
 
 Writing .vis file
-Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.13\shaewen-chronicles_alpha_0.0.13.vis'
+Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.14\shaewen-chronicles_alpha_0.0.14.vis'
 --------------------------------------------------------------------------------
 graphics\items\leeregiftphiole.png
 graphics\items\dolch.png
@@ -38,6 +38,8 @@ graphics\items\Brief_ungelesen.png
 graphics\items\Brief_gelesen.png
 graphics\items\gitphiolemitschimmel.png
 graphics\items\schlüssel_vorratskammer.png
+graphics\items\fliege.png
+graphics\items\schale.png
 tmp\vis0.png
 graphics\menüs\Logo + Menü.png
 tmp\vis1.png
@@ -59,6 +61,7 @@ graphics\kulissen\Toilette.png
 graphics\kulissen\schmiede.png
 graphics\kulissen\vorratskammer.png
 graphics\kulissen\schlafsaal.png
+sounds\footsteps.wav
 graphics\dialog\dialog_pfeil_auf_active.png
 graphics\dialog\dialog_pfeil_auf_inactive.png
 graphics\dialog\dialog_pfeil_ab_active.png
