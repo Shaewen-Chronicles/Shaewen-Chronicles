@@ -24,13 +24,13 @@ Writing interfaces
 Writing interface 'inventory'
 Writing interface 'Maus'
 Writing videos
-Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.14\video.vv000'
+Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.15\video.vv000'
 --------------------------------------------------------------------------------
 C:\Users\chris_000\Desktop\Shaewen-Chronicles\graphics\videos\intro_neu.mp4
 --------------------------------------------------------------------------------
 
 Writing .vis file
-Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.14\shaewen-chronicles_alpha_0.0.14.vis'
+Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.15\shaewen-chronicles_alpha_0.0.15.vis'
 --------------------------------------------------------------------------------
 graphics\items\leeregiftphiole.png
 graphics\items\dolch.png
@@ -40,6 +40,7 @@ graphics\items\gitphiolemitschimmel.png
 graphics\items\schlüssel_vorratskammer.png
 graphics\items\fliege.png
 graphics\items\schale.png
+graphics\items\schalevoll.png
 tmp\vis0.png
 graphics\menüs\Logo + Menü.png
 tmp\vis1.png
