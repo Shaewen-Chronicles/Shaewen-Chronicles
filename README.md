@@ -22,7 +22,7 @@ Linksklick zum Bewegen und Aktionen ausführen.
 
 Rechtsklick zum Objekte anschauen.
 
-q Spiel sofort beenden
+[q] Spiel sofort beenden
 
 [+] Interface Modus umstellen Standard Hover Mode umgestellt Mausrad
 
