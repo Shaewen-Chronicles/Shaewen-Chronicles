@@ -28,3 +28,7 @@ Rechtsklick zum Objekte anschauen.
 
 
 Wer Rechtschreibfehler findet darf Sie Behalten!! (aber bitte voher melden)
+
+This program is Beta , and has no warranty. It may eat your files,
+call you names, or explode in a massive shower of code. The authors take
+no responsibility for these possible events.
