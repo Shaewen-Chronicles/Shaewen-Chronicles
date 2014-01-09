@@ -13,6 +13,9 @@ Writing scene 'Schmiede_gasthof'
 Writing scene 'vorratskammer_gasthof'
 Writing scene 'schlafsaal_gasthof'
 Writing scene '(Level1)'
+Writing scene '------------------------------'
+Writing scene '(Level übergang)'
+Writing scene 'draußen_sonne'
 Writing characters
 Writing character 'Benlegar (MainChar)'
 Writing character 'Eberhard (Gastwirt)'
@@ -24,38 +27,35 @@ Writing interfaces
 Writing interface 'inventory'
 Writing interface 'Maus'
 Writing videos
-Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.15\video.vv000'
+Container 'C:\Users\Christian\Desktop\Shaewen-Chronicles\Game\0.0.16\video.vv000'
 --------------------------------------------------------------------------------
-C:\Users\chris_000\Desktop\Shaewen-Chronicles\graphics\videos\intro_neu.mp4
+C:\Users\Christian\Desktop\Shaewen-Chronicles\graphics\videos\intro_neu.mp4
 --------------------------------------------------------------------------------
 
 Writing .vis file
-Container 'C:\Users\chris_000\Desktop\Shaewen-Chronicles\Game\0.0.15\shaewen-chronicles_alpha_0.0.15.vis'
+Container 'C:\Users\Christian\Desktop\Shaewen-Chronicles\Game\0.0.16\shaewen-chronicles_alpha_0.0.16.vis'
 --------------------------------------------------------------------------------
 graphics\items\leeregiftphiole.png
 graphics\items\dolch.png
 graphics\items\Brief_ungelesen.png
 graphics\items\Brief_gelesen.png
 graphics\items\gitphiolemitschimmel.png
-graphics\items\schlüssel_vorratskammer.png
 graphics\items\fliege.png
 graphics\items\schale.png
 graphics\items\schalevoll.png
-tmp\vis0.png
-graphics\menüs\Logo + Menü.png
+graphics\menüs\Logo + Menü.png
 tmp\vis1.png
-graphics\menüs\Laden_Speichern.png
-graphics\menüs\zurück.png
-graphics\menüs\Platz1_active.png
-graphics\menüs\Platz2_active.png
-graphics\menüs\Platz3_active.png
-graphics\menüs\Platz4_active.png
+graphics\menüs\Laden_Speichern.png
+graphics\menüs\zurück.png
+graphics\menüs\Platz1_active.png
+graphics\menüs\Platz2_active.png
+graphics\menüs\Platz3_active.png
+graphics\menüs\Platz4_active.png
 graphics\kulissen\raum1.png
 graphics\kulissen\raum2.png
 graphics\kulissen\raum3.png
 graphics\kulissen\draußen_schnee.png
 graphics\kulissen\raum4.png
-graphics\kulissen\küche.png
 graphics\objecte\kochtopf.png
 graphics\objecte\kochtopf_gift.png
 graphics\kulissen\Toilette.png

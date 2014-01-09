@@ -2,11 +2,16 @@
 Shaewen-Chronicles
 ==================
 
-Alpha v0.0.15 Veröffentlicht!!!
+This program is Alpha, and has no warranty. It may eat your files,
+call you names, or explode in a massive shower of code. The authors take
+no responsibility for these possible events.
+========================================================================
+
+Alpha v0.0.16 Veröffentlicht!!!
 
 Erste Mission kann abgeschlossen Werden!!!
 
-Dies hier ist ein von 2 Freunden entwickeltes Point and Klick Adventure
+Dies hier ist ein von 2 Freunden entwickeltes Point and Klick Adventure, welches in einer fiktiven Welt spielt in welcher ihr den Auftragsmörder Darothant Spielt.
 
 Einfach die .exe Starten und ihr könnt spielen.
 Solltet ihr irgendwelche Bugs oder Rechtschreibfehler finden bitte auf GitHub ein Issue anlegen.
@@ -26,9 +31,11 @@ Rechtsklick zum Objekte anschauen.
 
 [+] Interface Modus umstellen Standard Hover Mode umgestellt Mausrad
 
+[F3] Quicksave Laden
 
-Wer Rechtschreibfehler findet darf Sie Behalten!! (aber bitte voher melden)
+[F4] Quiscksave Speichern
 
-This program is Alpha, and has no warranty. It may eat your files,
-call you names, or explode in a massive shower of code. The authors take
-no responsibility for these possible events.
+
+Wer Rechtschreibfehler findet darf Sie Behalten!! (aber bitte voher auf GitHub melden)
+
+
