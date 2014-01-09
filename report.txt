@@ -27,13 +27,13 @@ Writing interfaces
 Writing interface 'inventory'
 Writing interface 'Maus'
 Writing videos
-Container 'C:\Users\Christian\Desktop\Shaewen-Chronicles\Game\0.0.16\video.vv000'
+Container 'C:\Users\Christian\Desktop\Shaewen-Chronicles\Game\0.0.17\video.vv000'
 --------------------------------------------------------------------------------
 C:\Users\Christian\Desktop\Shaewen-Chronicles\graphics\videos\intro_neu.mp4
 --------------------------------------------------------------------------------
 
 Writing .vis file
-Container 'C:\Users\Christian\Desktop\Shaewen-Chronicles\Game\0.0.16\shaewen-chronicles_alpha_0.0.16.vis'
+Container 'C:\Users\Christian\Desktop\Shaewen-Chronicles\Game\0.0.17\shaewen-chronicles_alpha_0.0.17.vis'
 --------------------------------------------------------------------------------
 graphics\items\leeregiftphiole.png
 graphics\items\dolch.png
@@ -43,6 +43,7 @@ graphics\items\gitphiolemitschimmel.png
 graphics\items\fliege.png
 graphics\items\schale.png
 graphics\items\schalevoll.png
+tmp\vis0.png
 graphics\menüs\Logo + Menü.png
 tmp\vis1.png
 graphics\menüs\Laden_Speichern.png
@@ -69,13 +70,21 @@ graphics\dialog\dialog_pfeil_ab_active.png
 graphics\dialog\dialog_pfeil_ab_inactive.png
 graphics\dialog\dialoge.png
 character\mainchar\front\mainchar_neu.png
-character\mainchar\back\mainchar_neu.png
 character\mainchar\left\mainchar_neu.png
-character\mainchar\right\mainchar_neu.png
 character\mainchar\front_right\mainchar_neu.png
 character\mainchar\front_left\mainchar_neu.png
 character\mainchar\back_left\mainchar_neu.png
+character\mainchar\back\mainchar_neu.png
 character\mainchar\back_right\mainchar_neu.png
+character\mainchar\right\mainchar_neu.png
+character\mainchar\neu\mainchar0000.png
+character\mainchar\neu\mainchar0006.png
+character\mainchar\neu\mainchar0004.png
+character\mainchar\neu\mainchar0002.png
+character\mainchar\neu\mainchar0001.png
+character\mainchar\neu\mainchar0007.png
+character\mainchar\neu\mainchar0003.png
+character\mainchar\neu\mainchar0005.png
 character\Eberhard\front\Eberhard.png
 character\Eberhard\back\Eberhard.png
 character\Eberhard\left\Eberhard.png

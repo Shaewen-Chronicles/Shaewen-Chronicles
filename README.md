@@ -31,6 +31,8 @@ Rechtsklick zum Objekte anschauen.
 
 [+] Interface Modus umstellen Standard Hover Mode umgestellt Mausrad
 
+[c] Hauptcharacter auf neues Modell umschalten
+
 [F3] Quicksave Laden
 
 [F4] Quiscksave Speichern
